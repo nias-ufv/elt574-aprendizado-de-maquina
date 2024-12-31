@@ -1,10 +1,11 @@
-#### Universidade Federal de Viçosa
-#### Centro de Ciências Exatas e Tecnológicas
-#### Departamento de Engenharia Elétrica
+**Universidade Federal de Viçosa**
+**Centro de Ciências Exatas e Tecnológicas**
+**Departamento de Engenharia Elétrica**
 
-#### Núcleo Interdisciplinar de Análise de Sinais 
-#### Lato senso em Inteligência Artificial e Computacional
-#### ELT574 - Aprendizado de Máquinas
+**Núcleo Interdisciplinar de Análise de Sinais** 
+**Lato senso em Inteligência Artificial e Computacional**
+
+**ELT574 - Aprendizado de Máquinas**
 Este repositório serve para auxiliar as atividades da disciplina ELT574 - Aprendizado de Máquinas. 
 Os arquivos estão separados de acordo com o tema de cada semana. 
 
